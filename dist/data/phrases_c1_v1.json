@@ -1,18 +1,129 @@
 {
-    "title": "Capítulo 1 - Volume 1",
-    "phrases": [
-      {
-        "title": "Gramática",
-        "phrase": "Hello, how are you?"
-      },
-      {
-        "title": "Gramática",
-        "phrase": "Today the weather is nice."
-      },
-      {
-        "title": "Frases de apoio",
-        "phrase": "I like to code in JavaScript."
-      }
-    ]
-  }
-  
+  "title": "Capítulo 1 - Prazer em te conhecer!",
+  "phrases": [
+    {
+      "title": "Exemplo: Verbo To Be",
+      "phrase": "I am"
+    },
+    {
+      "title": "Exemplo: Verbo To Be",
+      "phrase": "You are"
+    },
+    {
+      "title": "Exemplo: Verbo To Be",
+      "phrase": "He is"
+    },
+    {
+      "title": "Exemplo: Verbo To Be",
+      "phrase": "She is"
+    },
+    {
+      "title": "Exemplo: Verbo To Be",
+      "phrase": "It is"
+    },
+    {
+      "title": "Exemplo: Verbo To Be",
+      "phrase": "We are"
+    },
+    {
+      "title": "Exemplo: Verbo To Be",
+      "phrase": "They are"
+    },
+    {
+      "title": "Vocabulário: Roupas",
+      "phrase": "T-shirt"
+    },
+    {
+      "title": "Vocabulário: Roupas",
+      "phrase": "Pants"
+    },
+    {
+      "title": "Vocabulário: Roupas",
+      "phrase": "Jacket"
+    },
+    {
+      "title": "Vocabulário: Roupas",
+      "phrase": "Shoes"
+    },
+    {
+      "title": "Vocabulário: Roupas",
+      "phrase": "Hat"
+    },
+    {
+      "title": "Vocabulário: Cores",
+      "phrase": "Red"
+    },
+    {
+      "title": "Vocabulário: Cores",
+      "phrase": "Blue"
+    },
+    {
+      "title": "Vocabulário: Cores",
+      "phrase": "Yellow"
+    },
+    {
+      "title": "Vocabulário: Cores",
+      "phrase": "Green"
+    },
+    {
+      "title": "Vocabulário: Cores",
+      "phrase": "Black"
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "Hi! My name is John."
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "What is your name?"
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "Nice to meet you!"
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "Where are you from?"
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "I like your t-shirt!"
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "Hi! How are you?"
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "I'm from Brazil."
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "How old are you?"
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "I'm 20 years old."
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "What do you do?"
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "I'm a student."
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "I work as a teacher."
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "Do you speak English?"
+    },
+    {
+      "title": "Frases Práticas: Se Apresentando",
+      "phrase": "A little bit."
+    }
+  ]
+}
